@@ -7,7 +7,7 @@
 ## 📣 문의 및 기여
 
 - **스터디장:** 김선민  
-- **디스코드:** https://discord.gg/XzdpVSdE
+- **디스코드:** https://discord.gg/SamXtAnXN4
 - **오픈채팅:** https://open.kakao.com/o/gnyhugph
 - 문의는 디스코드 또는 오픈채팅, GitHub 이슈/PR로 남겨주세요!
 
